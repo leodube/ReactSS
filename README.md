@@ -5,7 +5,7 @@
 ```
 git clone --depth=1 https://github.com/leodube/react-ss.git <PROJECT_NAME>
 cd <PROJECT_NAME>
-rm -rf .git
+rm -rf .git .gitignore
 npm install
 npm start
 ```
