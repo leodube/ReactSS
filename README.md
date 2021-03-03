@@ -10,3 +10,7 @@ npm install
 npm start
 ```
 Requires [Node.js](https://nodejs.org/en/download/) and `npm`.
+
+### Built with:
+- React
+- Bootstrap
