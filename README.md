@@ -13,4 +13,6 @@ Requires [Node.js](https://nodejs.org/en/download/) and `npm`.
 
 ### Built with:
 - React
+- Webpack
+- Babel
 - Bootstrap
