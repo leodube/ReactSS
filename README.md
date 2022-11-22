@@ -1,5 +1,5 @@
 # React-SS
-**React Simple Setup** is the react boilerplate I use for most of my projects. This minimal setup handles installation of react, webpack, babel, and bootstrap dependencies.
+**React Simple Setup** is a react boilerplate. This minimal setup handles installation of react, webpack, babel, and bootstrap dependencies.
 
 ## Usage
 ```
