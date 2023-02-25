@@ -1,9 +1,8 @@
 version: '3.7'
-name: 'reactss'
+name: 'react-ss'
 
 services:
   web:
-    container_name: web
     build:
       context: .
       dockerfile: Dockerfile
