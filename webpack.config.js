@@ -38,10 +38,10 @@ module.exports = {
     filename: "bundle.js",
   },
   devServer: {
-    contentBase: path.join(__dirname, "dist"),
+    static: path.join(__dirname, "dist"),
     compress: true,
     port: 3000,
-    hotOnly: true,
+    hot: true,
   },
   plugins: [
     new CleanWebpackPlugin(),
